@@ -1,6 +1,3 @@
-/* Name, event_tables.c, CS 24000, Fall 2020
- * Last updated October 12, 2020
- */
 
 #include "event_tables.h"
 
