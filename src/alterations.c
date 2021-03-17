@@ -1,8 +1,3 @@
-/* Name, alterations.c, CS 24000, Fall 2020
- * Last updated October 12, 2020
- */
-
- /* Add any includes here */
 
 #include "alterations.h"
 #include <string.h>
