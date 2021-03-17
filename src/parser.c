@@ -1,7 +1,3 @@
-/* Name, parser.c, CS 24000, Fall 2020
- * Last updated October 12, 2020
- */
-
 /* Add any includes here */
 #include <stdio.h>
 #include <assert.h>
