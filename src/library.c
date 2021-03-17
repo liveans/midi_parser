@@ -1,7 +1,3 @@
-/* Name, library.c, CS 24000, Fall 2020
- * Last updated October 12, 2020
- */
-
 #include "library.h"
 
 #ifdef CUSTOM_MALLOC
